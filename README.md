@@ -12,7 +12,7 @@
 Annarhysa Albert (RA2111047010144)</br>
 Mrunmayee Ravindra Datar (RA2111047010173)</br><hr>
 Subject: PPS (Programming For Problem Solving)</br>
-Faculty: Siva R,Krishnaveni S</br>
+Faculty: Siva R, Krishnaveni S</br>
 B.Tech - AI C </br>
 Batch: 2021-25 </br>
 SRMIST, Ktr </br>
