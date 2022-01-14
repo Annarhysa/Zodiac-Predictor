@@ -10,9 +10,9 @@
 <li> Programming Language: C </li></i></ul> <hr>
 <h4> Project Creators </h4>
 Annarhysa Albert (RA2111047010144)</br>
-Piyush Agarwal (RA2111047010152)</br><hr>
+Mrunmayee Ravindra Datar (RA2111047010173)</br><hr>
 Subject: PPS (Programming For Problem Solving)</br>
-Faculty: Siva R</br>
+Faculty: Siva,Krishnaveni R</br>
 B.Tech - AI C </br>
 Batch: 2021-25 </br>
 SRMIST, Ktr </br>
