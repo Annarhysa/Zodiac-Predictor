@@ -4,7 +4,7 @@
 <hr>
 <h4>Project Brief</h4>
 <ul>
-<i><li>This project will tell you your zodiac sign on entering your birth day and month </li>
+<i><li>This project will tell you your zodiac sign on entering your birth date and month </li>
   <li> It will also tell you about the sign's personality and the famous celebrity who shares the same zodiac</li>
 <li> Code comprises of If-else loop structure</li>
 <li> Programming Language: C </li></i></ul> <hr>
