@@ -6,7 +6,7 @@ B.TECH - AI C*/
 
 #include <stdio.h>
 int main()
-{int day, month;
+{int date, month;
 printf("\n");
 printf("*****************************************************************************************************************************\n");
 printf("                                            WELCOME TO ZODIAC PREDICTOR\n");
@@ -15,14 +15,14 @@ printf(" \n");
 
 /*TAKING USER INPUT*/
 
-printf("Enter Your Birth Day: ");
-scanf("%d", &day);
+printf("Enter Your Birth Date(dd): ");
+scanf("%d", &date);
 printf("Enter Your Birth Month: ");
 scanf("%d", &month);
 
 /*ARIES ZODIAC SIGN*/
 
-if ((day>=21 && day<=31 && month == 3)|| (day>=1 && day<=19 && month == 4))
+if ((date>=21 && date<=31 && month == 3)|| (date>=1 && date<=19 && month == 4))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -32,12 +32,15 @@ printf("Personality Traits: \n");
 printf("1) Aries are energetic and full of hope for the future.\n");
 printf("2) They are passionate and brave for everything.\n");
 printf("3) Friendly and genial to every friend around.\n");
+printf("4) Fearless and Courageous.\n"); 
+printf("______________________________________________________________________________________________________________________________\n");
+printf("Your Zodiac Flower Is Honeysuckle\n"); 
 printf("______________________________________________________________________________________________________________________________\n");
 printf("Celebrity That Shares The Same Zodiac Sign: Jackie Chan [7th April]\n");}
 
 /*TAURUS ZODIAC SIGN*/
 
-else if ((day>=20 && day<=30 && month == 4)|| (day>=1 && day<=20 && month == 5))
+else if ((date>=20 && date<=30 && month == 4)|| (date>=1 && date<=20 && month == 5))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -52,7 +55,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Megan Fox [16th May]\n");}
 
 /*GEMINI ZODIAC SIGN*/
 
-else if ((day>=21 && day<=31 && month == 5)|| (day>=1 && day<=21 && month == 6))
+else if ((date>=21 && date<=31 && month == 5)|| (date>=1 && date<=21 && month == 6))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -67,7 +70,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Madhavan R. [1st June]\n");}
 
 /*CANCER ZODIAC SIGN*/
 
-else if ((day>=22 && day<=30 && month == 6)|| (day>=1 && day<=22 && month == 7))
+else if ((date>=22 && date<=30 && month == 6)|| (date>=1 && date<=22 && month == 7))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -82,7 +85,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Priyanka Chopra [18th July]\
 
 /*LEO ZODIAC SIGN*/
 
-else if ((day>=23 && day<=31 && month == 7)|| (day>=1 && day<=22 && month == 8))
+else if ((date>=23 && date<=31 && month == 7)|| (date>=1 && date<=22 && month == 8))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -97,7 +100,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Barack Obama [4th August]\n"
 
 /*VIRGO ZODIAC SIGN*/
 
-else if ((day>=23 && day<=31 && month == 8)|| (day>=1 && day<=22 && month == 9))
+else if ((date>=23 && date<=31 && month == 8)|| (date>=1 && date<=22 && month == 9))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -112,7 +115,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Beyoncé [4th September]\n")
 
 /*LIBRA ZODIAC SIGN*/
 
-else if ((day>=23 && day<=30 && month == 9)|| (day>=1 && day<=23 && month == 10))
+else if ((date>=23 && date<=30 && month == 9)|| (date>=1 && date<=23 && month == 10))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -127,7 +130,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Amitabh Bachchan [11th Octob
 
 /*SCORPIO ZODIAC SIGN*/
 
-else if ((day>=24 && day<=31 && month == 10)|| (day>=1 && day<=21 && month == 11))
+else if ((date>=24 && date<=31 && month == 10)|| (date>=1 && date<=21 && month == 11))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -143,7 +146,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Juhi Chawla [13th November]\
 
 /*SAGITTARIUS ZODIAC SIGN*/
 
-else if ((day>=22 && day<=30 && month == 11)|| (day>=1 && day<=21 && month == 12))
+else if ((date>=22 && date<=30 && month == 11)|| (date>=1 && date<=21 && month == 12))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -158,7 +161,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Charlie Puth [2nd December]\
 
 /*CAPRICORN ZODIAC SIGN*/
 
-else if ((day>=22 && day<=31 && month == 12)|| (day>=1 && day<=19 && month == 1))
+else if ((date>=22 && date<=31 && month == 12)|| (date>=1 && date<=19 && month == 1))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -173,7 +176,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Michelle Obama [17th January
 
 /*AQUARIUS ZODIAC SIGN*/
 
-else if ((day>=20 && day<=31 && month == 1)|| (day>=1 && day<=18 && month == 2))
+else if ((date>=20 && date<=31 && month == 1)|| (date>=1 && date<=18 && month == 2))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
@@ -188,7 +191,7 @@ printf("Celebrity That Shares The Same Zodiac Sign: Urmila Matondkar [4th Februa
 
 /*PISCES ZODIAC SIGN*/
 
-else if ((day>=19 && day<=29 && month == 2)|| (day>=1 && day<=20 && month == 3))
+else if ((date>=19 && date<=29 && month == 2)|| (date>=1 && date<=20 && month == 3))
 {
 printf("\n");
 printf("*****************************************************************************************************************************\n");
