@@ -217,7 +217,7 @@ printf("4) Independent, Inquisitve and Intellectual.\n");
 printf("______________________________________________________________________________________________________________________________\n");
 printf("Your Zodiac Flower Is Orchid\n");
 printf("______________________________________________________________________________________________________________________________\n");
-printf("Celebrity That Shares The Same Zodiac Sign: Urmila Matondkar [4th February]\n");}
+printf("Celebrity That Shares The Same Zodiac Sign: Harry Styles [1st February]\n");}
 
 /*PISCES ZODIAC SIGN*/
 
@@ -235,7 +235,7 @@ printf("4) Highly Sociable, Intuitive and Genuine.\n");
 printf("______________________________________________________________________________________________________________________________\n");
 printf("Your Zodiac Flower Is Water Lily\n");
 printf("______________________________________________________________________________________________________________________________\n");
-printf("Celebrity That Shares The Same Zodiac Sign: Shankar Mahadevan [3rd March]\n");}
+printf("Celebrity That Shares The Same Zodiac Sign: Alia Bhatt [15th March]\n");}
 
 else
 {
