@@ -16,6 +16,7 @@
 <h4> Project Creators </h4>
 Annarhysa Albert (RA2111047010144)</br>
 Mrunmayee Ravindra Datar (RA2111047010173)</br><hr>
+<h4> Project Details</h4>
 Subject: PPS (Programming For Problem Solving)</br>
 Faculty: Siva R, Krishnaveni S</br>
 B.Tech - AI C </br>
