@@ -1,6 +1,6 @@
 # Zodiac Predictor 
 <b><h5>A Mini Project For CT4 </br></b></h5>
-![zodiacgif](http://evome.co/wp-content/uploads/2017/04/giphy-16.gif)
+![zodiacgif](https://c.tenor.com/-UbigSQgQ60AAAAC/zodiac-spiritual.gif)
 <hr>
 <h4>Project Brief</h4>
 <ul>
