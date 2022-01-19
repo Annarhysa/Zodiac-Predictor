@@ -11,7 +11,7 @@
 <ol><i>
   <li> Zodiac Sign</li>
   <li> Personality traits of the zodiac sign</li>
-  <li> Birth Flower</li>
+  <li> Zodiac Flower</li>
   <li> A famous celebrity who shares the same zodiac</li></i></ol><hr>
 <h4> Project Creators </h4>
 Annarhysa Albert (RA2111047010144)</br>
