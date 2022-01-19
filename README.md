@@ -1,6 +1,6 @@
 # Zodiac Predictor 
 <b><h5>A Mini Project For CT4 </br></b></h5>
-![zodiacgif](https://c.tenor.com/-UbigSQgQ60AAAAC/zodiac-spiritual.gif)
+<img src="https://c.tenor.com/-UbigSQgQ60AAAAC/zodiac-spiritual.gif" width= 1000 >
 <hr>
 <h4>Project Brief</h4>
 <ul>
