@@ -1,6 +1,6 @@
-# Zodiac Predictor
+# Zodiac Predictor 
 <b><h5>A Mini Project For CT4 </br></b></h5>
-<img src ="https://cdn.britannica.com/72/223172-131-C3F72804/astrology-horoscope-circle.jpg">
+![zodiacgif](http://evome.co/wp-content/uploads/2017/04/giphy-16.gif)
 <hr>
 <h4>Project Brief</h4>
 <ul>
@@ -11,7 +11,7 @@
 <ol><i>
   <li> Zodiac Sign</li>
   <li> Personality traits of the zodiac sign</li>
-  <li> Zodiac Flower</li>
+  <li> Birth Flower</li>
   <li> A famous celebrity who shares the same zodiac</li></i></ol><hr>
 <h4> Project Creators </h4>
 Annarhysa Albert (RA2111047010144)</br>
