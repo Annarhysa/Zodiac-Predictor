@@ -6,7 +6,9 @@
 <ul>
   <i><li>This project will ask users their birth date and month as input</li>
     <li> Code comprises of If-else loop structure</li>
-    <li> Programming Language: C </li></i></ul> <hr>
+    <li> Programming Language: C </li></i></ul> 
+    <h4> <i>Flow Chart<h4></i>
+  <img src=""<hr>
 <h4>Project Outputs</h4>
 <ol><i>
   <li> Zodiac Sign</li>
