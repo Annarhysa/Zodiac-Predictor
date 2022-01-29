@@ -6,7 +6,7 @@
 <ul>
   <i><li>This project will ask users their birth date and month as input</li>
     <li> Code comprises of If-else loop structure</li>
-    <li> Programming Language: C </li></i></ul> 
+    <li> Programming Language: C </li></i></ul> <br>
     <h4 align = "center" > <i>Flow chart depicting working of the code<h4></i>
   <img src="Screenshot 2022-01-29 115942.png" width = 1000><hr>
 <h3>Project Outputs</h3>
