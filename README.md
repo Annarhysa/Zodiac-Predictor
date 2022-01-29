@@ -8,7 +8,7 @@
     <li> Code comprises of If-else loop structure</li>
     <li> Programming Language: C </li></i></ul> 
     <h4> <i>Flow Chart<h4></i>
-  <img src=""<hr>
+  <img src="Screenshot 2022-01-29 114321.png"><hr>
 <h4>Project Outputs</h4>
 <ol><i>
   <li> Zodiac Sign</li>
