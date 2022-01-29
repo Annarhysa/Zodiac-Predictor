@@ -15,7 +15,7 @@
   <li> Personality traits of the zodiac sign</li>
   <li> Zodiac Flower</li>
   <li> A famous celebrity who shares the same zodiac</li></i></ol>
- <img src="image1.png" width="425"> <img src="image2.png" width="425"> <hr>
+ <img src="Project Content/istockphoto-843174022-612x612.jpg" width="425"> <img src="image2.png" width="425"> <hr>
 <h3> Project Creators </h3>
 Annarhysa Albert (RA2111047010144)</br>
 Mrunmayee Ravindra Datar (RA2111047010173)</br><hr>
