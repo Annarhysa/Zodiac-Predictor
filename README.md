@@ -15,7 +15,7 @@
   <li> Personality traits of the zodiac sign</li>
   <li> Zodiac Flower</li>
   <li> A famous celebrity who shares the same zodiac</li></i></ol>
-<img src="Project Content/istockphoto-843174022-612x612.jpg" width="238"> <img src="Project Content/startup-g89ceb94db_1920.jpg " width="220.6"> <img src="Project Content/istockphoto-178890650-612x612.jpg" width="239"> <img src="Project Content/istockphoto-515930993-612x612.jpg" width="247.5"><hr>
+<img src="Project Content/istockphoto-843174022-612x612.jpg" width="228"> <img src="Project Content/startup-g89ceb94db_1920.jpg " width="211.2"> <img src="Project Content/Screenshot 2022-01-31 163321.png" width="250.6"> <img src="Project Content/istockphoto-515930993-612x612.jpg" width="237"><hr>
 <h3> Project Creators </h3>
 Annarhysa Albert (RA2111047010144)</br>
 Mrunmayee Ravindra Datar (RA2111047010173)</br><hr>
